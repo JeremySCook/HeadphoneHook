@@ -3,6 +3,10 @@ Hook for headphones that attaches to a movable stand
 
 ![image](headphones1.jpg)
 
+Tap smaller hole for 7/8 inch long 10-24 BHCS
+
+Marble colored filament used: https://amzn.to/2KuEFxc
+
 Used with this stand: https://amzn.to/31Be6fj 
 
 With headphones: https://amzn.to/2H6Mx5R
