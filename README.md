@@ -1,7 +1,7 @@
 # HeadphoneHook
 Hook for headphones that attaches to a movable stand
 
-![image](headphones1.jpg)
+![image](Headphones-combo.jpg)
 
 Tap smaller hole for 7/8 inch long 10-24 BHCS
 
