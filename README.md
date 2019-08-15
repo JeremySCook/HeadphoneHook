@@ -15,6 +15,7 @@ Also seems to work with these lights FWIW: https://amzn.to/2KvluDi
 
 ![image](zoomed-out.jpg)
 
-As for what I record, check out [The Creativity Podcast: Where Art and Engineering Collide](https://soundcloud.com/thecreativitypodcast), or my [Projects Channel on YouTube](https://www.youtube.com/user/jscook55)
+As for what I record, check out [The Creativity Podcast: Where Art and Engineering Collide](https://soundcloud.com/thecreativitypodcast), 
+or my [Projects Channel on YouTube](https://www.youtube.com/user/jscook55)
 
-(links are Amazon Affiliate)
+(links to Amazon are affiliate)
