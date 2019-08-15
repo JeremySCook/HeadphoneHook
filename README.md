@@ -13,7 +13,7 @@ With headphones: https://amzn.to/2H6Mx5R
 
 Also seems to work with these lights FWIW: https://amzn.to/2KvluDi
 
-
+![image](zoomed-out.jpg)
 
 As for what I record, check out [The Creativity Podcast: Where Art and Engineering Collide](https://soundcloud.com/thecreativitypodcast), or my [Projects Channel on YouTube](https://www.youtube.com/user/jscook55)
 
