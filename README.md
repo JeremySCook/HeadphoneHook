@@ -1,6 +1,12 @@
 # HeadphoneHook
 Hook for headphones that attaches to a movable stand
 
+Current magnet-based iteration:
+
+![image](Headphones-combo.jpg)
+
+Previous iteration using a screw to secure:
+
 ![image](Headphones-combo.jpg)
 
 Tap smaller hole for 7/8 inch long 10-24 BHCS. STLs are for a 45° and 30° versions with the screw tap position reversed between the two.
