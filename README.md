@@ -1,7 +1,7 @@
 # HeadphoneHook
 Hook for headphones that attaches to a movable stand
 
-Current magnet-based iteration:
+# Current magnet-based iteration:
 
 ![image](maghook.png)
 
@@ -9,7 +9,7 @@ Blue marble colored filament used: https://amzn.to/3gtnsVh
 
 12 x 3mm rare earth magnets: https://www.ebay.com/itm/lot-100-50-12mm-X-3mm-1-2-x-1-8-Neodymium-Disc-Strong-Rare-Earth-N52-Magnets/311723176686
 
-Previous iteration using a screw to secure:
+# Previous iteration using a screw to secure:
 
 ![image](Headphones-combo.jpg)
 
