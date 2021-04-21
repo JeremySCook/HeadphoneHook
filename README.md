@@ -3,7 +3,7 @@ Hook for headphones that attaches to a movable stand
 
 Current magnet-based iteration:
 
-![image](Headphones-combo.jpg)
+![image](maghook.png)
 
 Previous iteration using a screw to secure:
 
