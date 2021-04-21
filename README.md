@@ -5,6 +5,8 @@ Current magnet-based iteration:
 
 ![image](maghook.png)
 
+Blue marble colored filament used: https://amzn.to/3gtnsVh
+
 Previous iteration using a screw to secure:
 
 ![image](Headphones-combo.jpg)
