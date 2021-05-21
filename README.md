@@ -1,4 +1,6 @@
 # HeadphoneHook
+
+As seen demonstrated here: https://www.youtube.com/watch?v=KxgLdYH0gVc  
 Hook for headphones that attaches to a movable stand
 
 # Current magnet-based iteration:
