@@ -4,7 +4,7 @@ Earlier version seen demonstrated here: https://www.youtube.com/watch?v=KxgLdYH0
 
 Hook for headphones that attaches to a movable stand
 
-# Current magnet-based iteration:
+# Current magnet and rail-based iteration:
 
 ![image](hook-rail.jpg)
 
