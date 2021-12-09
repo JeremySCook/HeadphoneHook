@@ -12,4 +12,4 @@ With headphones: https://amzn.to/2H6Mx5R
 
 Also seems to work with these lights FWIW: https://amzn.to/2KvluDi
 
-![image](zoomed-out.jpg)
+Amazon links are affiliate
