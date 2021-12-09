@@ -2,7 +2,7 @@
 
 Earlier version seen demonstrated here: https://www.youtube.com/watch?v=KxgLdYH0gVc with bearing pivot.
 
-Hook for headphones that attaches to a movable stand
+Hook for headphones that attaches to a movable stand. Secures with magnets and a rail.
 
 # Current magnet and rail-based iteration:
 
